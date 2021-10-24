@@ -8,6 +8,7 @@ public class SpringBootProfileApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootProfileApplication.class, args);
+		System.out.println("Application started..........");
 	}
 
 }

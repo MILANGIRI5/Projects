@@ -1,0 +1,11 @@
+server:
+  port: 7070
+spring:
+  application:
+    name: profile_test_dev
+developer:
+  name: Milan Kumar Giri
+  skill: java
+qatester:
+  name: NoData
+  skill: NoData
