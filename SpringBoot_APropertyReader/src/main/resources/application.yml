@@ -1,0 +1,4 @@
+sftp:
+    hostname: abc
+    username: USER_NAME
+    password: PASSWORD
